@@ -1,2 +1,4 @@
 images_dataset
 env
+server/test_images
+server/haarcascades
